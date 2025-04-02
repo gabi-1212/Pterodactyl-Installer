@@ -21,9 +21,6 @@ Supports newest version of Pterodactyl! This script is one of the only ones that
 - Uninstall Wings
 - Autoinstall [ONLY NGINX & BETA]
 
-# Support
-I have created a channel on my Discord Server where you can get support.
-https://discord.gg/3UUrgEhvJ2
 
 # Supported OS & Webserver
 Supported operating systems.
@@ -38,10 +35,6 @@ Supported operating systems.
 | NGINX            | :white_check_mark:  |
 | Apache           | :white_check_mark:  |
 
-# Contributors
-Copyright 2022-2025, [Malthe K](https://github.com/guldkage), me@malthe.cc
-<br>
-Created and maintained by [Malthe K.](https://github.com/guldkage)
 
 # Support
 The script has been tested many times without any bug fixes, however they can still occur.
@@ -83,5 +76,5 @@ You must be precise when using this script. 1 typo and everything can go wrong.
 It also needs to be run on a fresh version of Ubuntu or Debian.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/autoinstall.sh)  <fqdn> <ssl> <email> <username> <firstname <lastname> <password> <wings>
+bash <(curl -s http://raw.githubusercontent.com/gabi-1212/Pterodactyl-Installer/refs/heads/main/autoinstall.sh)  <fqdn> <ssl> <email> <username> <firstname <lastname> <password> <wings>
 ```
